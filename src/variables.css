@@ -1,9 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Mon, 12 Sep 2022 10:55:36 GMT
+ * Generated on Mon, 12 Sep 2022 11:08:06 GMT
  */
 
 :root {
+  --token-set-order-0: miticolor;
+  --token-set-order-1: Medium;
+  --token-set-order-2: Small;
   --green: #13AE70;
   --yellow: #FFC400;
   --deepgrey: #2A2A37;
@@ -15,5 +18,5 @@
   --normalgrey: #C6C7C9;
   --midgrey: #DFE0E2;
   --lightgrey: #F0F1F2;
-  --red: #FF0000;
+  --red-orange: #FFAA00;
 }
