@@ -1,75 +1,75 @@
 {
   "tokenSetOrder": {
     "0": {
-      "value": "miticolor",
-      "type": "other"
-    },
-    "1": {
-      "value": "Medium",
-      "type": "other"
-    },
-    "2": {
-      "value": "Small",
+      "value": "global",
       "type": "other"
     }
   },
-  "green": {
-    "value": "#13AE70",
-    "type": "color",
-    "description": "Mitigram brand color Green"
+  "miticolor": {
+    "green": {
+      "value": "#13AE70",
+      "type": "color",
+      "description": "Mitigram brand color Green"
+    },
+    "yellow": {
+      "value": "#FFC400",
+      "type": "color",
+      "description": "Mitigram brand color Yellow"
+    },
+    "deepgrey": {
+      "value": "#2A2A37",
+      "type": "color",
+      "description": "Mitigram brand color DeepGrey"
+    },
+    "darkgrey": {
+      "value": "#3D3D49",
+      "type": "color",
+      "description": "Mitigram base brand DarkGrey"
+    },
+    "productblue": {
+      "value": "#BCE2DE",
+      "type": "color",
+      "description": "Mitigram brand color ProductBlue"
+    },
+    "productyellow": {
+      "value": "#FFECB8",
+      "type": "color",
+      "description": "Mitigram brand color ProductYellow"
+    },
+    "productred": {
+      "value": "#FFE9F2",
+      "type": "color",
+      "description": "Mitigram brand color ProductRed"
+    },
+    "productpurple": {
+      "value": "#D9E2F2",
+      "type": "color",
+      "description": "Mitigram brand color ProductPurple"
+    },
+    "normalgrey": {
+      "value": "#C6C7C9",
+      "type": "color",
+      "description": "Mitigram brand color NormalGrey"
+    },
+    "midgrey": {
+      "value": "#DFE0E2",
+      "type": "color",
+      "description": "Mitigram brand color MidGrey"
+    },
+    "lightgrey": {
+      "value": "#F0F1F2",
+      "type": "color",
+      "description": "Mitigram brand color LightGrey"
+    }
   },
-  "yellow": {
-    "value": "#FFC400",
-    "type": "color",
-    "description": "Mitigram brand color Yellow"
+  "Medium": {
+    "value": 16,
+    "type": "spacing",
+    "description": "Medium Space -  base 8"
   },
-  "deepgrey": {
-    "value": "#2A2A37",
-    "type": "color",
-    "description": "Mitigram brand color DeepGrey"
-  },
-  "darkgrey": {
-    "value": "#3D3D49",
-    "type": "color",
-    "description": "Mitigram base brand DarkGrey"
-  },
-  "productblue": {
-    "value": "#BCE2DE",
-    "type": "color",
-    "description": "Mitigram brand color ProductBlue"
-  },
-  "productyellow": {
-    "value": "#FFECB8",
-    "type": "color",
-    "description": "Mitigram brand color ProductYellow"
-  },
-  "productred": {
-    "value": "#FFE9F2",
-    "type": "color",
-    "description": "Mitigram brand color ProductRed"
-  },
-  "productpurple": {
-    "value": "#D9E2F2",
-    "type": "color",
-    "description": "Mitigram brand color ProductPurple"
-  },
-  "normalgrey": {
-    "value": "#C6C7C9",
-    "type": "color",
-    "description": "Mitigram brand color NormalGrey"
-  },
-  "midgrey": {
-    "value": "#DFE0E2",
-    "type": "color",
-    "description": "Mitigram brand color MidGrey"
-  },
-  "lightgrey": {
-    "value": "#F0F1F2",
-    "type": "color",
-    "description": "Mitigram brand color LightGrey"
-  },
-  "RedOrange": {
-    "value": "#FFAA00",
-    "type": "color"
+  "Small": {
+    "value": 8,
+    "type": "spacing",
+    "description": "Small Space -  base 8"
   }
 }

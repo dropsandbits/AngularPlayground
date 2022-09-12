@@ -1,22 +1,21 @@
 /**
  * Do not edit directly
- * Generated on Mon, 12 Sep 2022 11:08:06 GMT
+ * Generated on Mon, 12 Sep 2022 11:16:55 GMT
  */
 
 :root {
-  --token-set-order-0: miticolor;
-  --token-set-order-1: Medium;
-  --token-set-order-2: Small;
-  --green: #13AE70;
-  --yellow: #FFC400;
-  --deepgrey: #2A2A37;
-  --darkgrey: #3D3D49;
-  --productblue: #BCE2DE;
-  --productyellow: #FFECB8;
-  --productred: #FFE9F2;
-  --productpurple: #D9E2F2;
-  --normalgrey: #C6C7C9;
-  --midgrey: #DFE0E2;
-  --lightgrey: #F0F1F2;
-  --red-orange: #FFAA00;
+  --token-set-order-0: global;
+  --miticolor-green: #13AE70;
+  --miticolor-yellow: #FFC400;
+  --miticolor-deepgrey: #2A2A37;
+  --miticolor-darkgrey: #3D3D49;
+  --miticolor-productblue: #BCE2DE;
+  --miticolor-productyellow: #FFECB8;
+  --miticolor-productred: #FFE9F2;
+  --miticolor-productpurple: #D9E2F2;
+  --miticolor-normalgrey: #C6C7C9;
+  --miticolor-midgrey: #DFE0E2;
+  --miticolor-lightgrey: #F0F1F2;
+  --medium: 16;
+  --small: 8;
 }
