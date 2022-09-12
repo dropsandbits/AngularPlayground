@@ -1,4 +1,18 @@
 {
+  "tokenSetOrder": {
+    "0": {
+      "value": "miticolor",
+      "type": "other"
+    },
+    "1": {
+      "value": "Medium",
+      "type": "other"
+    },
+    "2": {
+      "value": "Small",
+      "type": "other"
+    }
+  },
   "green": {
     "value": "#13AE70",
     "type": "color",
@@ -54,8 +68,8 @@
     "type": "color",
     "description": "Mitigram brand color LightGrey"
   },
-  "Red": {
-    "value": "#FF0000",
+  "RedOrange": {
+    "value": "#FFAA00",
     "type": "color"
   }
 }
