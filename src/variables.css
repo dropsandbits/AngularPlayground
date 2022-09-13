@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Mon, 12 Sep 2022 11:25:46 GMT
+ * Generated on Tue, 13 Sep 2022 09:22:01 GMT
  */
 
 :root {
   --token-set-order-0: global;
-  --miticolor-green: #13AE70;
-  --miticolor-yellow: #FFC400;
+  --miticolor-main: #13AE70;
+  --miticolor-secondary: #FFC400;
   --miticolor-deepgrey: #2A2A37;
   --miticolor-darkgrey: #3D3D49;
   --miticolor-productblue: #BCE2DE;

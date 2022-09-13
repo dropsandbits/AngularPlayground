@@ -6,12 +6,12 @@
     }
   },
   "miticolor": {
-    "green": {
+    "main": {
       "value": "#13AE70",
       "type": "color",
       "description": "Mitigram brand color Green"
     },
-    "yellow": {
+    "secondary": {
       "value": "#FFC400",
       "type": "color",
       "description": "Mitigram brand color Yellow"
