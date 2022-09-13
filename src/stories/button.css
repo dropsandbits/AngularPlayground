@@ -1,3 +1,21 @@
+
+:root {
+  --token-set-order-0: global;
+  --miticolor-primary: #13AE70;
+  --miticolor-secondary: #FFC400;
+  --miticolor-deepgrey: #2A2A37;
+  --miticolor-darkgrey: #3D3D49;
+  --miticolor-productblue: #BCE2DE;
+  --miticolor-productyellow: #FFECB8;
+  --miticolor-productred: #FFE9F2;
+  --miticolor-productpurple: #D9E2F2;
+  --miticolor-normalgrey: #C6C7C9;
+  --miticolor-midgrey: #DFE0E2;
+  --miticolor-lightgrey: #F0F1F2;
+  --medium: 16;
+  --small: 8;
+}
+
 .storybook-button {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
