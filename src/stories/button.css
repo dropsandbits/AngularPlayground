@@ -1,7 +1,6 @@
-
 :root {
   --token-set-order-0: global;
-  --miticolor-primary: #13AE70;
+  --miticolor-main: #13AE70;
   --miticolor-secondary: #FFC400;
   --miticolor-deepgrey: #2A2A37;
   --miticolor-darkgrey: #3D3D49;
@@ -16,6 +15,7 @@
   --small: 8;
 }
 
+
 .storybook-button {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
@@ -27,7 +27,7 @@
 }
 .storybook-button--primary {
   color: white;
-  background-color: #13AE70;
+  background-color: var(––miticolor-main);
 }
 .storybook-button--secondary {
   color: #333;
@@ -45,4 +45,8 @@
 .storybook-button--large {
   font-size: 16px;
   padding: 12px 24px;
+}
+
+.backup-greencolor{
+  color: #13AE70;
 }
